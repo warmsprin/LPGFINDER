@@ -425,6 +425,5 @@ class Tabs(tk.Frame):
         tk.Frame.__init__(self)
         # TODO: implement tabs
 
-
 if __name__ == '__main__':
     main()
